@@ -1,0 +1,17 @@
+# .class files
+/bin
+# More build garbage
+/build
+
+# Plugin output .zip
+/dist
+
+# Gradle tempfiles
+/.gradle
+
+# System-specific properties (GHIDRA_INSTALL_DIR)
+/gradle.properties
+
+# Eclipse settings
+/.settings
+
